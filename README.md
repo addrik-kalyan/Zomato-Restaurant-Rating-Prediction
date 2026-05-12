@@ -20,6 +20,3 @@ To build a regression model that predicts restaurant ratings based on restaurant
 
 ## Dataset
 The Zomato dataset contains information about restaurants, including cuisine types, costs, delivery options, and ratings.
-
-## Author
-Built as part of my machine learning learning journey.
